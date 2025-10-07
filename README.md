@@ -38,7 +38,7 @@
  ## OUTPUT
 [Exp 1.2.pdf](https://github.com/user-attachments/files/22226337/Exp.1.2.pdf)
 
-<img width="693" height="980" alt="image" src="https://github.com/user-attachments/assets/d301df2e-85fa-4858-b627-c47a13849411" />
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/d301df2e-85fa-4858-b627-c47a13849411" />
 
  
  
