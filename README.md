@@ -36,29 +36,10 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  ## OUTPUT
 [Exp 1.2.pdf](https://github.com/user-attachments/files/22226337/Exp.1.2.pdf)
 
-<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/d301df2e-85fa-4858-b627-c47a13849411" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/d301df2e-85fa-4858-b627-c47a13849411" />
 
  
  
